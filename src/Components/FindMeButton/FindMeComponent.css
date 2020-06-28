@@ -1,0 +1,6 @@
+.findMeButton{
+    position: absolute;
+    bottom: 3%;
+    left: 50%;
+    z-index: 5;
+}
